@@ -1,0 +1,28 @@
+{
+    "strategies": [
+        {
+            "name": "Reavaliação Cognitiva",
+            "description": "Esta estratégia envolve interpretar uma situação de forma diferente de forma a alterar como a pessoa se sente em relação a essa situação."
+        },
+        {
+            "name": "Modulação de Resposta Emocional",
+            "description": "Consiste em modificar a resposta emocional, para que a pessoa consiga manter as suas emoções sob controlo."
+        },
+        {
+            "name": "Supressão Emocional",
+            "description": "É uma forma de modulação de resposta emocional e consiste na tentativa de esconder, inibir ou reduzir a expressão das emoções (por exemplo, expressão facial) de forma a reduzir o seu impacto."
+        },
+        {
+            "name": "Alteração do Foco Atencional",
+            "description": "Esta estratégia ocorre quando alguém tenta distrair-se quando confrontado com uma situação stressante."
+        },
+        {
+            "name": "Modificação de Situação",
+            "description": "É a capacidade de modificar uma situação para evitar experimentar as emoções desagradáveis ​​desencadeadas por essa situação."
+        },
+        {
+            "name": "Seleção de Situação",
+            "description": "Ocorre quando alguém escolhe situações menos propensas a desencadear emoções negativas e evita situações que ativam essas emoções."
+        }
+    ]
+}
