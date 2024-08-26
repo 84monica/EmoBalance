@@ -4,7 +4,7 @@
 
 The game was developed using *Unity* and the all assets are from the *Unity Asset Store*. Characters and animations are from *Mixamo*, and *Ink* was used to handle the storylines of the game. 
 
-https://github.com/user-attachments/assets/c2701394-2c46-4ce2-8849-8005fa1e3168
+https://github.com/user-attachments/assets/89c8bb7d-24d0-4e38-8010-cf7aa9168c2d
 
 # How to install
 
